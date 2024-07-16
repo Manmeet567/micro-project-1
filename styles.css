@@ -73,8 +73,8 @@ main > div > p:nth-of-type(2) {
 }
 
 main > img {
-  height: 575px;
-  width: 575px;
+  height: 525px;
+  width: 525px;
   margin: 10px 40px;
 }
 
